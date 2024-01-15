@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4ca27dbbf50d241b6724f15f8490a0, type: 3}
+  m_Name: EnemyTwo
+  m_EditorClassIdentifier: 
+  <Health>k__BackingField: 60
+  <Damage>k__BackingField: 10
+  <Speed>k__BackingField: 1
+  <DamageSound>k__BackingField: {fileID: 8300000, guid: 5bcb9df01b443a44a952f11267000e1f, type: 3}
+  <DeathSound>k__BackingField: {fileID: 8300000, guid: e5c19a58d98be4a49ba30193d12b8a4f, type: 3}

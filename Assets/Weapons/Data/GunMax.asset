@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4507a3b48605f76488a07bf406fa8d05, type: 3}
+  m_Name: GunMax
+  m_EditorClassIdentifier: 
+  <GunPrefab>k__BackingField: {fileID: 1219841863923169370, guid: b107fa3106471914cb069133c96eb06f, type: 3}
+  <FireRate>k__BackingField: 7
+  <BulletsPerShot>k__BackingField: 1
+  <BulletSpawnSpread>k__BackingField: 2
+  <BulletDespawnDistance>k__BackingField: 4
+  <ShootSoundEffect>k__BackingField: {fileID: 8300000, guid: 194181326c12b494ca1c3a959fddb4a4, type: 3}
+  <Bullet>k__BackingField: {fileID: 11400000, guid: a49142c963ec8604b9d27448e32a3ba9, type: 2}
